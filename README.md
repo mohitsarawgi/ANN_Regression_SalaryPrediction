@@ -20,3 +20,22 @@ Streamlit
 Pandas
 Scikit-learn
 Pickle (for saving/loading encoders and scalers)
+
+## Clone the Repository
+bash -- 
+git clone https://github.com/your-username/salary-prediction.git
+cd salary-prediction
+
+## Install Dependencies
+bash -- 
+pip install -r requirements.txt
+
+## Start the Streamlit Application
+
+bash --
+streamlit run regressionapp.py
+
+
+
+
+
